@@ -1,10 +1,5 @@
 - 👋 Hi, i'm @ike-gg
-- 👀 I’m interested in frontend & backend.
-- 🧠 ReactJS & Node.js (Express)
-- 💀 You will NEVER find a todo app here.
-- 📫 How to reach me- idk
-
-<!---
-ike-gg/ike-gg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in frontend & backend, but more comfortable with front :-)
+- 🧠 ReactJS & ExpressJS 
+- 💀 You will NEVER find a todo app here... or maybe?
+- 📫 Reach me on discord: ike#0003
