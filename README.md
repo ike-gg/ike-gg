@@ -1,4 +1,4 @@
-![cover](https://i.imgur.com/Qalmni6.png)
+![cover](https://i.imgur.com/uNSMmOl.png)
 
 ## 🙋 About me
 
