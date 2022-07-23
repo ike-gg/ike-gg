@@ -2,7 +2,7 @@
 
 ## 🙋 About me
 
-I'm a 19 yo aspiring front-end developer based in Poznan, Poland 🇵🇱. I love to create delightful, unconventional and cutting-edge (web) apps, concerned also in backend (node.js) and UI & UX.
+I'm a 19yo aspiring frontend developer based in Poznan, Poland 🇵🇱. I love to create delightful, unconventional and cutting-edge (web) apps, concerned also in backend (node.js) and UI & UX.
 
 <p>Stay in touch with me:</p>
 <p>
