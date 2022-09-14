@@ -3,6 +3,7 @@
 ## 🙋 About me
 
 I'm a 19yo frontend developer based in Poznan, Poland 🇵🇱. I love to create delightful, unconventional and cutting-edge (web) apps, concerned also in backend (node.js) and UI & UX.
+In addition, as of August 2022, I am learning swift and iOS mobile app development! 🍏
 
 <p>Stay in touch with me:</p>
 <p>
